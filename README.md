@@ -1,0 +1,1 @@
+Python flask deployment in Kubernetes
